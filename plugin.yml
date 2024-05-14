@@ -1,0 +1,5 @@
+name: StoryAPI
+version: '1.0'
+main: netzwerk.api.story.StoryAPI
+api-version: 1.20
+author: ErinderLabyrinth
